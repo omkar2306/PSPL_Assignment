@@ -1,0 +1,58 @@
+2022-02-03 15:21:35.813 +05:30 [INF] Application Started
+2022-02-03 15:21:36.504 +05:30 [INF] User profile is available. Using 'C:\Users\omkark\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 15:21:36.729 +05:30 [INF] Now listening on: http://localhost:5000
+2022-02-03 15:21:36.730 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 15:21:36.730 +05:30 [INF] Hosting environment: Development
+2022-02-03 15:21:36.731 +05:30 [INF] Content root path: D:\Sharp\Employee_Sol\EmployeeApp
+2022-02-03 15:21:37.187 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2022-02-03 15:21:37.209 +05:30 [INF] Executing endpoint 'EmployeeApp.Controllers.WeatherForecastController.Get (EmployeeApp)'
+2022-02-03 15:21:37.224 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[EmployeeApp.WeatherForecast] Get() on controller EmployeeApp.Controllers.WeatherForecastController (EmployeeApp).
+2022-02-03 15:21:37.229 +05:30 [INF] Executing ObjectResult, writing value of type 'EmployeeApp.WeatherForecast[]'.
+2022-02-03 15:21:37.328 +05:30 [INF] Executed action EmployeeApp.Controllers.WeatherForecastController.Get (EmployeeApp) in 99.2342ms
+2022-02-03 15:21:37.332 +05:30 [INF] Executed endpoint 'EmployeeApp.Controllers.WeatherForecastController.Get (EmployeeApp)'
+2022-02-03 15:21:37.333 +05:30 [INF] Request finished in 147.6939ms 200 application/json; charset=utf-8
+2022-02-03 15:21:37.348 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2022-02-03 15:21:37.349 +05:30 [INF] Request finished in 1.3233ms 404 
+2022-02-03 15:53:50.922 +05:30 [INF] Application Started
+2022-02-03 15:53:51.485 +05:30 [INF] User profile is available. Using 'C:\Users\omkark\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 15:53:51.721 +05:30 [INF] Now listening on: http://localhost:5000
+2022-02-03 15:53:51.721 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 15:53:51.722 +05:30 [INF] Hosting environment: Development
+2022-02-03 15:53:51.722 +05:30 [INF] Content root path: D:\Sharp\Employee_Sol\EmployeeApp
+2022-02-03 15:53:52.485 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2022-02-03 15:53:52.511 +05:30 [INF] Request finished in 29.0878ms 404 
+2022-02-03 15:53:55.132 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2022-02-03 15:53:55.133 +05:30 [INF] Request finished in 1.1377ms 404 
+2022-02-03 16:31:38.969 +05:30 [INF] Application Started
+2022-02-03 16:31:39.559 +05:30 [INF] User profile is available. Using 'C:\Users\omkark\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 16:31:39.792 +05:30 [INF] Now listening on: http://localhost:5000
+2022-02-03 16:31:39.792 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 16:31:39.793 +05:30 [INF] Hosting environment: Development
+2022-02-03 16:31:39.793 +05:30 [INF] Content root path: D:\Sharp\Employee_Sol\EmployeeApp
+2022-02-03 16:31:40.515 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2022-02-03 16:31:40.536 +05:30 [INF] Executing endpoint 'EmployeeApp.Controllers.WeatherForecastController.Get (EmployeeApp)'
+2022-02-03 16:31:40.550 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[EmployeeApp.WeatherForecast] Get() on controller EmployeeApp.Controllers.WeatherForecastController (EmployeeApp).
+2022-02-03 16:31:40.555 +05:30 [INF] Executing ObjectResult, writing value of type 'EmployeeApp.WeatherForecast[]'.
+2022-02-03 16:31:40.649 +05:30 [INF] Executed action EmployeeApp.Controllers.WeatherForecastController.Get (EmployeeApp) in 94.7739ms
+2022-02-03 16:31:40.651 +05:30 [INF] Executed endpoint 'EmployeeApp.Controllers.WeatherForecastController.Get (EmployeeApp)'
+2022-02-03 16:31:40.652 +05:30 [INF] Request finished in 140.8922ms 200 application/json; charset=utf-8
+2022-02-03 16:36:08.676 +05:30 [INF] Application Started
+2022-02-03 16:36:09.190 +05:30 [INF] User profile is available. Using 'C:\Users\omkark\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 16:36:09.453 +05:30 [INF] Now listening on: http://localhost:5000
+2022-02-03 16:36:09.454 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 16:36:09.454 +05:30 [INF] Hosting environment: Development
+2022-02-03 16:36:09.455 +05:30 [INF] Content root path: D:\Sharp\Employee_Sol\EmployeeApp
+2022-02-03 16:36:10.267 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Employee  
+2022-02-03 16:36:10.295 +05:30 [INF] Executing endpoint 'EmployeeApp.Controllers.EmployeeController.Get (EmployeeApp)'
+2022-02-03 16:36:10.311 +05:30 [INF] Route matched with {action = "Get", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller EmployeeApp.Controllers.EmployeeController (EmployeeApp).
+2022-02-03 16:36:10.495 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 16:36:10.551 +05:30 [INF] Executed action EmployeeApp.Controllers.EmployeeController.Get (EmployeeApp) in 236.0962ms
+2022-02-03 16:36:10.554 +05:30 [INF] Executed endpoint 'EmployeeApp.Controllers.EmployeeController.Get (EmployeeApp)'
+2022-02-03 16:36:10.556 +05:30 [INF] Request finished in 293.3662ms 200 application/json; charset=utf-8
+2022-02-03 16:36:12.745 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Employee  
+2022-02-03 16:36:12.746 +05:30 [INF] Executing endpoint 'EmployeeApp.Controllers.EmployeeController.Get (EmployeeApp)'
+2022-02-03 16:36:12.747 +05:30 [INF] Route matched with {action = "Get", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller EmployeeApp.Controllers.EmployeeController (EmployeeApp).
+2022-02-03 16:36:12.750 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 16:36:12.751 +05:30 [INF] Executed action EmployeeApp.Controllers.EmployeeController.Get (EmployeeApp) in 3.4099ms
+2022-02-03 16:36:12.752 +05:30 [INF] Executed endpoint 'EmployeeApp.Controllers.EmployeeController.Get (EmployeeApp)'
+2022-02-03 16:36:12.753 +05:30 [INF] Request finished in 7.8495ms 200 application/json; charset=utf-8
