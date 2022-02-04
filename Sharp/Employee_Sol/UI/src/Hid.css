@@ -1,0 +1,14 @@
+.demo {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.marginbutton {
+    margin-top: 20px;
+}
+
+input {
+    position: relative;
+    left: 13%;
+    margin-left: -145px;
+}
